@@ -23,7 +23,7 @@ class LongTermMemory:
         log_player_update() called by the reflection pipeline after each game to append new observations to an opponent's profile
         log_self_update() called by the reflection pipeline after each game to append new self-notes
         close_session() closes the session; rebuilds the index from disk
-        rebuild_index() rebuiilds index.json from .txt files
+        rebuild_index() rebuilds index.json from .txt files
 
     File layout under root/:
         players/

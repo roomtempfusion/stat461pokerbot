@@ -71,41 +71,61 @@ class MediumTermMemory:
         )
 
 
-    def ingest_hand(self, hand_record: str, hand_stats: dict | None = None):
-        """
-        Append a completed hand record (from ShortTermMemory.purge_memory()) to the
-        raw log and update running statistics.
+    # def ingest_hand(self, hand_record: str, hand_stats: dict | None = None):
+    #     """
+    #     Append a completed hand record (from ShortTermMemory.purge_memory()) to the
+    #     raw log and update running statistics.
 
-        Args:
-        hand_stats (optional): structured numeric observations extracted from the hand,
-        keyed by player. Expected shape (all fields optional):
-            {
-                "P2": {"vpip": True, "preflop_raise": True, "went_to_showdown": False},
-                "P3": {"vpip": False, ...},
-            }
-        Stats that are missing from hand_stats are left unchanged.
+    #     Args:
+    #     hand_stats (optional): structured numeric observations extracted from the hand,
+    #     keyed by player. Expected shape (all fields optional):
+    #         {
+    #             "P2": {"vpip": True, "preflop_raise": True, "went_to_showdown": False},
+    #             "P3": {"vpip": False, ...},
+    #         }
+    #     Stats that are missing from hand_stats are left unchanged.
+    #     """
+    #     self.hands_played += 1
+    #     self._append_to("raw_log.txt", hand_record)
+
+    #     if hand_stats:
+    #         stats = self._read_json("stats.json")
+    #         stats["hands_played"] = self.hands_played
+    #         for player, observations in hand_stats.items():
+    #             if player not in stats["players"]:
+    #                 stats["players"][player] = self._empty_player_stats()
+    #             bucket = stats["players"][player]
+    #             for key in ("vpip", "preflop_raise", "preflop_3bet",
+    #                         "went_to_showdown", "won_hand", "continuation_bet"):
+    #                 if observations.get(key):
+    #                     bucket[key] = bucket.get(key, 0) + 1
+    #             #tracks total chip delta.
+    #             bucket["net_chips"] = (bucket.get("net_chips", 0) + observations.get("net_chips", 0))
+    #         self._write_json("stats.json", stats)
+    #     else:
+    #         stats = self._read_json("stats.json")
+    #         stats["hands_played"] = self.hands_played
+    #         self._write_json("stats.json", stats)
+
+    def ingest_hand_from_json_and_reasoning(self, action_history: list[str], reasoning: list[list], chip_changes: list[int])->None:
+        """
+        Alternative method to ingest hand to deprecate shortterm memory. Instead,
+        read from the json and the reasoning list.        
         """
         self.hands_played += 1
-        self._append_to("raw_log.txt", hand_record)
+        #action history is a list of string
+        for item in action_history:
+            self._append_to("rawlog.txt", f'{item}\n')
 
-        if hand_stats:
-            stats = self._read_json("stats.json")
-            stats["hands_played"] = self.hands_played
-            for player, observations in hand_stats.items():
-                if player not in stats["players"]:
-                    stats["players"][player] = self._empty_player_stats()
-                bucket = stats["players"][player]
-                for key in ("vpip", "preflop_raise", "preflop_3bet",
-                            "went_to_showdown", "won_hand", "continuation_bet"):
-                    if observations.get(key):
-                        bucket[key] = bucket.get(key, 0) + 1
-                #tracks total chip delta.
-                bucket["net_chips"] = (bucket.get("net_chips", 0) + observations.get("net_chips", 0))
-            self._write_json("stats.json", stats)
-        else:
-            stats = self._read_json("stats.json")
-            stats["hands_played"] = self.hands_played
-            self._write_json("stats.json", stats)
+        self._append_to("rawlog.txt", '\nReasonings:\n')
+        streets = ["Preflop", "Flop", "Turn", "River"]
+        for reasoning_on_street, streetname in zip(reasoning, streets):
+            self._append_to("rawlog.txt", f'{streetname}: {reasoning_on_street}')
+        stats = self._read_json("stats.json")
+        stats["hands_played"] = self.hands_played
+        stats["chip_cahnges"] = chip_changes
+
+
 
     def log_trend(self, observation: str, hand_number: int | None = None):
         """

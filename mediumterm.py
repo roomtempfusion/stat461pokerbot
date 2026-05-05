@@ -120,7 +120,8 @@ class MediumTermMemory:
         self._append_to("raw_log.txt", '\nReasonings:\n')
         streets = ["Preflop", "Flop", "Turn", "River"]
         for reasoning_on_street, streetname in zip(reasoning, streets):
-            self._append_to("rawlog.txt", f'{streetname}: {reasoning_on_street}')
+            self._append_to("raw_log.txt", f'{streetname}: {reasoning_on_street}')
+            
         stats = self._read_json("stats.json")
         stats["hands_played"] = self.hands_played
         stats["chip_changes"] = chip_changes

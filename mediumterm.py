@@ -107,7 +107,7 @@ class MediumTermMemory:
     #         stats["hands_played"] = self.hands_played
     #         self._write_json("stats.json", stats)
 
-    def ingest_hand_from_json_and_reasoning(self, action_history: list[str], reasoning: list[list], chip_changes: list[int])->None:
+    def ingest_hand(self, action_history: list[str], reasoning: list[list], chip_changes: list[int])->None:
         """
         Alternative method to ingest hand to deprecate shortterm memory. Instead,
         read from the json and the reasoning list.        
@@ -115,19 +115,21 @@ class MediumTermMemory:
         self.hands_played += 1
         #action history is a list of string
         for item in action_history:
-            self._append_to("rawlog.txt", f'{item}\n')
+            self._append_to("raw_log.txt", f'{item}\n')
 
-        self._append_to("rawlog.txt", '\nReasonings:\n')
+        self._append_to("raw_log.txt", '\nReasonings:\n')
         streets = ["Preflop", "Flop", "Turn", "River"]
         for reasoning_on_street, streetname in zip(reasoning, streets):
             self._append_to("rawlog.txt", f'{streetname}: {reasoning_on_street}')
         stats = self._read_json("stats.json")
         stats["hands_played"] = self.hands_played
-        stats["chip_cahnges"] = chip_changes
+        stats["chip_changes"] = chip_changes
+
+        self._write_json("stats.json", stats)
 
 
 
-    def log_trend(self, observation: str, hand_number: int | None = None):
+    def log_trend(self, observation: str, hand_number: int | None = None) -> None:
         """
         Record a free-prose trend observation after hand-level reflection.
 

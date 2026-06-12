@@ -1,0 +1,33 @@
+=== TREND LOG | GAME 003 ===
+
+[After hand #1]
+P2: Made a reasonable big blind post (2000) but played passively postflop by folding to Hero's 4000 bet on the flop. This suggests P2 either had a weak hand or was not committed to the hand. The fold was reasonable given the board texture (Q-3-7) where Hero showed strength.
+
+P5: This player demonstrated solid postflop play. Called the big blind with Qc-As (a strong hand), then called Hero's 4000 flop bet, which was the correct move with a strong pair. However, P5 checked down all three streets after the flop, which was passive with top pair. The win on the river (J came out) suggests P5 had the best hand but failed to extract maximum value by not betting on the turn or river streets. While checking was safe, it left chips on the table against an aggressive opponent. The pair of queens held up to win the pot against Hero's hand.
+
+P3, P4, P6, P7: These players folded immediately preflop, showing proper hand selection by not entering a hand with weak holdings from out of position.
+
+[After hand #2]
+P5 made an aggressive move by completing the bet to 8000 from early position after the blinds were posted. This was a strong play that won the pot immediately, as all other players folded, including the small and big blinds (P2 and P3). P5 demonstrated good aggression and position awareness by raising a significant amount (8000) which successfully isolated the blinds and took down the pot without seeing a flop. P2 and P3 made reasonable decisions by folding their blind holdings to the large raise, recognizing they didn't have premium hands. P4, P6, and P7 also made correct decisions by folding early. Overall, P5's aggressive 8000 completion bet was well-executed and profitable, winning 3000 chips and establishing an image as an aggressive raiser that could be exploited in future hands.
+
+[After hand #3]
+P5 demonstrated weak passive play throughout this hand. After calling the Hero's 6000 raise preflop (a significant aggression for a 2000 big blind), P5 showed no strength postflop despite holding pocket fours. P5 checked down all three streets (flop, turn, river) against the Hero, allowing the action to remain passive and giving away a free showdown. While P5 won the pot, this was due to the pair of fours holding up rather than skilled play. The passive checking strategy suggests P5 either:
+1) Did not respect the Hero's initial raise enough to fold or 3-bet
+2) Lacked confidence in their hand postflop despite flopping an unimproved pair
+3) May be playing too many weak hands preflop and then playing them passively
+
+P2, P3, P4, P6, and P7 all folded early - P2, P3, P4 to the Hero's preflop raise, and P6, P7 immediately. These folds are reasonable given the Hero's aggressive raise and their positions. No notable mistakes or strengths evident from these quick folds.
+
+Key observation on P5: This is a player who may be exploitable by continuing aggression, as they demonstrated reluctance to play back at the aggressor postflop and took a passive line with a hand that had showdown value.
+
+[After hand #4]
+P5 showed reasonable aggression in calling the preflop raise with T-J offsuit from the big blind, which is a marginal hand. However, their play postflop was questionable. On the flop (2s-Kd-Jh), P5 checked, allowing Hero to bet, and then called 2000 chips with a pair of Jacks. This was a reasonable decision given the board texture. However, the critical issue is that P5 won the hand despite Hero having the initiative and aggression throughout. P5 made a good call getting value from Hero's bet on the flop with their pair of Jacks, and ultimately won when the river (9d) completed their hand or Hero's hand failed to improve. 
+
+Key observations about P5's play:
+- Weak preflop call from the big blind with T-J unsuited (marginal hand selection)
+- Reasonable postflop decision-making, checking and calling when appropriate
+- Benefited from getting lucky on the river or catching up
+- Did not show aggression, preferring to check and call, which was a passive but ultimately profitable line against Hero's aggression
+
+P2, P3, P4, P6, and P7 all folded early, showing they either had weak holdings or respected the action. P2, P3, and P4's folds were reasonable given Hero's raise to 6000.
+

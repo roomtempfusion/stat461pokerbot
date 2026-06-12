@@ -1,0 +1,245 @@
+=== TREND LOG | GAME 002 ===
+
+[After hand #1]
+P2 (Small Blind): Posted the small blind of 2000 chips. Made a reasonable decision to fold when facing P5's raise to 8000 from the cutoff position. No significant errors here - folding to a 4x raise is a standard play.
+
+P3: Folded pre-flop in early position. Standard play with no information about hand strength.
+
+P4: Folded pre-flop in early position. Standard play.
+
+P5 (Cutoff): Made a strong aggressive move by raising to 8000 from a relatively early position. This was an excellent play - P5 successfully isolated the blinds and took down the pot unopposed. The raise size (4x the big blind) was well-calibrated and achieved the objective of winning chips with limited resistance.
+
+P6: Folded to P5's raise. Appropriate decision from late position without a premium hand.
+
+P7: Folded to P5's raise. Standard play.
+
+Summary: P5 demonstrated solid aggressive poker by leveraging position and making a well-sized raise that cleared the table. The other players made standard decisions. No major mistakes from any player - this was a routine hand where P5's positional aggression was rewarded as expected.
+
+[After hand #2]
+**P2 (Small Blind):** Posted 1000 as small blind, then folded pre-flop. Standard play.
+
+**P3 (Big Blind):** Posted 2000 as big blind and called. Checked all three streets (flop, turn, river) showing weakness. Made the mistake of checking on the river with a paired board (3c-Ks-Ad-5s-5c), allowing P5 to make a 4000 bet unopposed before folding. This was passivity that cost them the pot - they should have either bet themselves or checked-called if they had a reasonable hand. Their fold to P5's bet suggests they had a weak holding and couldn't justify a call.
+
+**P5 (Cutoff/Position unclear):** Called the 2000 big blind pre-flop, then checked flop and turn. On the river, P5 made an aggressive 4000 bet after three streets of checking. This is a classic semi-bluff or value bet, exploiting the checked-down nature of the hand. Hero called and won the hand, indicating P5 either bluffed or had a weak hand. P5 then mucked their cards, suggesting they may have been attempting a bluff or had a marginal holding that couldn't withstand scrutiny.
+
+**P4, P6, P7:** All folded pre-flop immediately. Appropriate folds given their positions and the action.
+
+**Key Observations:**
+- P3's weakness (three streets of checking followed by a fold) indicates they are susceptible to river aggression and may have marginal holdings they're unwilling to defend
+- P5 showed they'll apply river pressure after passive play, but the mucking suggests the bet was speculative rather than backed by a strong hand
+- The hand demonstrated that P3 may check too much out of position and needs encouragement to engage post-flop
+
+[After hand #3]
+Analysis of non-Hero players' performance:
+
+**P2 (UTG+1):** Folded preflop after the blinds and antes were posted. No notable action to evaluate.
+
+**P3 (Small Blind):** Posted the small blind (1000) and folded preflop when the action came around. Standard play for a weak hand in the small blind position facing open raises.
+
+**P4 (Big Blind):** Posted the big blind (2000) and check-called to see the flop. However, P4 played passively throughout all streets (flop, turn, and river), consistently checking when given the opportunity. This is weak play—as the big blind with position on the button and cutoff, P4 should have shown more aggression, especially after no one bet. P4 also folded before showdown, suggesting weakness throughout the hand. This was a missed opportunity to apply pressure and win the pot with positional advantage.
+
+**P5 & P6:** Both folded preflop immediately without seeing the flop. Standard tight play; no significant evaluation needed.
+
+**P7 (Button):** Called the 2000 big blind preflop. P7 played passively on the flop and turn (checking through), but showed strength by reaching showdown with KK (pocket kings). However, P7's passive play with a strong hand was suboptimal—they could have extracted more value by betting the flop or turn with such a strong holding. The fact that they won the hand with just king-high on a board of 6-3-A-T-J suggests they likely faced weak holdings, but their checking strategy left money on the table.
+
+**Overall:** The table showed generally weak and passive play. P4 failed to capitalize on positional advantage as the big blind, and P7 failed to extract maximum value from premium pocket kings.
+
+[After hand #4]
+P2 played an aggressive and well-executed preflop strategy, raising to 8000 from an early position after several folds. This was a strong aggressive play that isolated P5 (the small blind), forcing out P3 and P4.
+
+Postflop (9c-7s-8d): P2 continued betting aggressively for 4000 after P5 checked. P5 called, showing weakness. This was a solid continuation bet from P2 on a board that favored their 8-8 holding.
+
+Turn (Qh): P2 maintained aggressive pressure with another 4000 bet. P5 called again, continuing to play passively. P2's consistent aggression built the pot while keeping P5 guessing.
+
+River (9d): The board paired with the 9d. P2 showed good pot control by reducing their bet to 1000, which was appropriate given the river gave P5 potential hand improvement (two pair possibilities). P5 called the 1000.
+
+P2's hole cards revealed 8-8, which was a premium pocket pair that held up well on this board. The player's strategy of three-barrel betting P5 into the river was effective, as P5 folded at showdown rather than contest the hand.
+
+P5 played passively throughout, calling three consecutive bets preflop and postflop without ever raising or reraising, showing a weak/cautious playing style. P5 eventually gave up rather than contest at showdown. This is a pattern to exploit - P5 appears to fold to sustained aggression without strong commitment to hands. P5 likely had a weaker holding (possibly unpaired broadway cards or a mid-pair) and lacked conviction to see the hand through.
+
+[After hand #5]
+P6 (Small Blind): Made a standard raise to 12,400 from the small blind position. However, after P7 called and the flop came (Jh, 9d, Qc), P6 checked weakly. When P7 bet 10,395, P6 called with only 7,600 remaining—a clear sign of being trapped. P6's hand likely missed the flop and they made the mistake of not folding or committing fully to the raise pre-flop. The hand selection and post-flop play were weak, as P6 ended up losing without showing their cards.
+
+P7 (Big Blind): Played more aggressively and effectively. After calling the 12,400 raise pre-flop, P7 showed strength by betting the flop (10,395) and then taking down the pot. P7 had As-Qd (pair of Queens with an Ace kicker), which was a reasonable holding that hit the flop. The betting line was solid—aggressive on the flop after P6 checked, and P7 was able to win the hand. P7 demonstrated good aggression and board reading, putting pressure on P6 when they appeared weak.
+
+[After hand #6]
+P3 made an aggressive opening raise to 8000 from early position, which is a strong play. This demonstrates P3 is willing to take aggressive action to build the pot when they have a strong hand or good position. P3's bet was effective, as it successfully isolated the hand and won the pot preflop without opposition. This suggests P3 plays a relatively straightforward, aggressive style with positional awareness. P2 faced the 8000 raise after posting the big blind and chose to fold, which was a reasonable decision given they were out of position. Overall, P3 demonstrated solid aggression and positional play, while P2 played a disciplined fold when faced with the aggressive raise.
+
+[After hand #7]
+P2 (Small Blind): Posted 1000 and folded to the completion bet. This is a standard play for a small blind when facing a raise from late position.
+
+P3 (Big Blind): Posted 2000 and folded to the completion bet. Standard big blind defense - folding to a raise is acceptable here.
+
+P4: Folded preflop from early position. Reasonable fold decision given the early position.
+
+P7: Folded preflop. Standard play.
+
+Summary: This was a straightforward hand where Hero won the blinds by completing to 4000 from late position. The other players made no egregious mistakes - they simply folded to the raise as expected. No significant strategic errors to exploit in this particular hand. The players demonstrated disciplined fold decisions when facing the raise.
+
+[After hand #8]
+P7 folded immediately preflop, which is standard play. P2 folded to the Hero's 6000 raise from early position - a reasonable decision when facing a 3x raise without a premium holding. P3 (small blind) folded to the raise despite having already posted 1000 chips, making the correct decision to not chase with a marginal holding. P4 (big blind) folded to the 3x raise, which is correct discipline - facing a 6000 bet when already committed 2000, P4 correctly assessed that without a strong hand, it was better to fold than call out of position. All three players who faced the Hero's aggression made fundamentally sound folding decisions, showing reasonable preflop discipline and fold equity recognition. No significant mistakes detected in this hand from the non-Hero players.
+
+[After hand #9]
+P4 posted the small blind (1000) as required. P7 posted the big blind (2000) as required. Hero folded early preflop, showing appropriate fold discipline. P2 and P3 both folded early without any action required, which is standard. P4 then folded their small blind, which is a standard play when facing the big blind raise with marginal holdings. The hand ended with P7 taking down the small blind pot (1000 chips total) unopposed, winning 3000 total from the collected blind. No significant mistakes or notable plays from the non-Hero players - this was a routine hand where everyone folded to the big blind, resulting in a standard blind steal for P7.
+
+[After hand #10]
+P2 played cautiously by folding preflop to P3's raise, which was a reasonable decision from an early position. P3 made an aggressive completion bet to 8000 from a late position, which is standard aggressive play. However, P3's play becomes questionable postflop: after the flop (7c-Ac-Td), P3 checked and then continued checking on the turn (3s) and river (Qh) without betting. This suggests P3 likely had a moderate hand or a draw that missed, and failed to extract value or apply pressure. P3's aggressive 4x raise preflop followed by complete passivity postflop indicates inconsistent play - either P3 was bluffing and got scared by the board action, or P3 had a hand that didn't connect with the board and lacked the aggression to follow through. P4, P7 wisely folded to the aggression early, which was appropriate given their positions and the action dynamics.
+
+[After hand #11]
+Hand Analysis:
+
+P2 (Big Blind): Made a solid play. Posted the big blind of 2000 and won the hand when Hero folded pre-flop. P2 successfully extracted 1000 chips from Hero's small blind without any confrontation. This was a standard and correct big blind position play - P2 didn't need to do anything special as the hand was won immediately when all other players folded to them.
+
+P3, P4, P7: All three players folded their hands before any real action occurred. These are early position folds which is appropriate given the limited information and chip positions at this stage. No significant evaluation needed as they made standard fold decisions.
+
+Key Observation: Hero folded the small blind to P2's big blind, which is the main storyline of this hand. P2 won 1000 chips (Hero's small blind) with minimal risk. This was a profitable outcome for P2 through straightforward position play and Hero's decision to fold rather than fight for the pot.
+
+[After hand #12]
+P2 (Small Blind): Posted the small blind of 1000 but folded preflop after the big blind raised. This is a standard play and shows reasonable fold equity respect.
+
+P3 (Big Blind): Made a reasonable small blind raise to 2000 preflop and saw the flop with Hero. On the flop (Kd, 3s, 8s), P3 checked, which was appropriate given the board texture. However, when Hero bet 2500, P3 folded immediately. This was a weak play - P3 could have had a strong hand or drawn value, but gave up too easily without putting up resistance or attempting to represent strength. The quick fold suggests passive play and a lack of aggression in the big blind.
+
+P4 and P7: Both folded preflop immediately, which is standard behavior from early position with weaker ranges.
+
+Summary: P3 showed weak, passive tendencies by immediately giving up to Hero's aggression on the flop without contest. P3 lacks aggression from the big blind and is susceptible to continuation bet exploitation. This player can be outplayed by betting the flop confidently with a good range. The other players' folds were standard and unremarkable.
+
+[After hand #13]
+In this hand, P3 posted the small blind (1000) and P4 posted the big blind (2000). The action moved around the table with P7, Hero, P2, and P3 all folding preflop. This resulted in P4 winning the pot uncontested after the blinds were collected.
+
+Analysis of non-Hero players:
+
+P3: Posted the small blind (1000) and then folded when action reached them. This is a standard play - they had no reason to risk additional chips with an unknown hand.
+
+P4: Posted the big blind (2000) and won the pot by default when all other players folded preflop. P4 didn't need to take any action and collected 3000 chips total (the collected blinds of 1000 from P3 plus the uncalled 2000). This was a favorable outcome for P4 with no risk involved.
+
+P7 and P2: Both folded preflop without being in the blinds, which is reasonable positional play.
+
+Overall, there were no significant mistakes from any non-Hero players this hand. P4 benefited from a favorable situation where they only invested blind money and won the pot uncontested. This hand doesn't provide much insight into the skill levels of the opponents since it was decided preflop with everyone folding.
+
+[After hand #14]
+P2 (Player 2): Made a standard fold preflop, no significant errors or noteworthy plays. P3 (Player 3): Made a standard fold preflop, no significant errors or noteworthy plays. P4 (Player 4): Posted the small blind (1000), but then folded when action returned to them preflop. This is a standard play when facing the big blind with a weak hand. P7 (Player 7): Posted the big blind (2000) and won the hand unopened when all other players folded preflop. P7 didn't need to make any decisions and simply collected the blinds. All non-Hero players played straightforwardly in this hand with no major mistakes or exceptional plays to note.
+
+[After hand #15]
+P7 (Small Blind) played passively throughout this hand. After posting the small blind and calling the big blind pre-flop, P7 checked through all streets (flop, turn, and river) without ever taking the initiative to bet. This is a cautious approach that allowed Hero to control the hand with a check-back strategy. While this passive play avoided losses, it also missed opportunities to apply pressure or extract value if P7 held a stronger hand. P7's decision to muck their hand at showdown rather than compete suggests they may have had a marginal holding that couldn't win, making the overall hand played in a way that minimized damage but also missed any potential upside. The hand demonstrates a pattern of defensive play that, while safe, is not maximally profitable in heads-up situations where more aggression might have generated better results.
+
+[After hand #16]
+P2 (Small Blind) posted the big blind of 2000 chips in an early position situation. After Hero posted the small blind of 1000 chips, three players (P3, P4, P7) folded preflop. Hero then folded their small blind, and P2 won the pot uncontested, collecting 3000 chips total (the blinds).
+
+**Analysis of P2's Play:**
+P2's play in this hand was straightforward and standard - they posted the big blind as required and won the hand immediately when Hero folded the small blind after other players had already folded. This is a favorable outcome for P2 as they won chips without having to play a hand. No significant strategic insight can be drawn from this single hand, as it was merely a blind battle situation where P2 benefited from preflop action folding around to them. P2 did not need to make any decisions beyond posting the blind, so there's no indication of skill level or tendencies from this particular hand.
+
+[After hand #17]
+P2 (Small Blind): Made a standard small blind posting. However, P2 folded immediately when facing the big blind with no action from other players - this suggests either a weak hand or overly cautious play. Against one opponent, folding from the small blind without any aggression is generally not optimal strategy.
+
+P3 (Big Blind): Played well by defending the big blind and winning the pot. No mistakes on P3's part - simply collected the blinds when all opponents folded.
+
+P4 and P7: Both folded preflop, which is standard and reasonable given the action.
+
+Notable: This hand was extremely passive overall with no meaningful betting action. No significant plays to evaluate, as the hand was decided by blinds and early folds.
+
+[After hand #18]
+P3 posted the small blind of 1000 chips. P4 posted the big blind of 2000 chips. The action folded around to P7 who folded first, followed by Hero (Player 1) folding, P2 folding, and P3 folding. This resulted in P4 winning the pot uncontested with 3000 chips total (the blinds from P3 and P4). P4 successfully won the hand without seeing the flop, which is typical when everyone folds to the big blind. No significant strategic plays or mistakes are evident in this hand as it was a simple blind-stealing situation where all players folded preflop before action could develop.
+
+[After hand #19]
+This hand ended preflop with Hero and P2, P3 all folding to the blind structure.
+
+P4 (Small Blind): Posted the small blind of 1000 chips but then folded when faced with the big blind raise, which is a standard play given the early position and blind posting requirement.
+
+P7 (Big Blind): Posted the big blind of 2000 chips and successfully won the hand when all other players folded, pulling in a 3000-chip pot (1000 from P4's small blind plus 2000 from the collected bets). P7 didn't need to play any hand post-flop and simply benefited from everyone folding. This is a passive but profitable outcome - P7 executed the basic big blind strategy correctly by defending their blind when faced with folds.
+
+Overall Assessment: Both P4 and P7 played their blind positions correctly. This was a straightforward hand where position and aggression from the button/early positions would have been the deciding factors, but with Hero and early position players folding, there was no real opportunity for P7 to demonstrate advanced play. The hand concluded quickly due to weak preflop action from other players rather than any exceptional play from the blind positions.
+
+[After hand #20]
+P7 made an aggressive but questionable play on the flop. After the blinds were posted (P7 with 1000 as small blind, Hero with 2000 as big blind), P7 called the additional 1000 to match the big blind. On the flop showing 6s-3d-As, P7 bet a large amount (37,342), which is a significant overbet relative to the pot size (~4000). This aggressive bet likely had the intention of taking down the pot immediately. However, the sizing was excessive - P7 was risking a massive amount to win a small pot. This is generally poor bankroll management and suggests either desperation, weakness trying to look strong, or overestimating their hand strength. The large bet did accomplish its goal of winning the hand (Hero folded), but the play itself is mathematically inefficient and exploitable. A smaller bet would have achieved the same result while protecting bankroll better. P7's aggression was rewarded in this instance, but the bet sizing indicates poor poker fundamentals.
+
+[After hand #21]
+P2: Posted the big blind (2000 chips) and then faced a re-raise to 4000 from Hero (who was in the small blind). P2 made a reasonable decision by folding to the aggressive re-raise, avoiding further losses. This was a competent fold given the aggressive 3-bet and limited information. Overall, a solid defensive play that prevented bleeding chips in an unfavorable spot.
+
+P3: Folded pre-flop from an early position. This is standard play and appropriate, suggesting conservative position play.
+
+P4: Folded pre-flop from an early position. Standard conservative play, no issues.
+
+P7: Folded pre-flop. Appropriate action for their position.
+
+[After hand #22]
+P2 (Small Blind): P2 executed an aggressive preflop strategy by completing their small blind to 8000 (3x raise), demonstrating willingness to apply pressure. They held pocket Kings (Ks, Kh), which justified their aggressive action. This was a solid play with a premium hand.
+
+P3 (Big Blind): P3 called the 4000 additional chips to complete the big blind and see the flop. However, P3's play became problematic when they folded on the turn (after the Ah appeared on the flop). This suggests P3 likely had a weak or medium-strength hand preflop and was unable to continue when the board developed unfavorably. By calling the raise out of position with what appears to be a speculative or marginal hand, P3 put themselves in a difficult spot and eventually had to fold, losing their initial 6000 chips investment. This demonstrates poor hand selection and/or inability to handle aggression from late position.
+
+[After hand #23]
+P4 (Small Blind): Posted the small blind of 1000 as required and then folded when the action came around. This is a standard play for a small blind in a short-handed situation.
+
+P7 (Big Blind): Posted the big blind of 2000 as required. P7 won the hand without showdown when all other players folded, collecting the blinds (3000 total). This is a passive outcome but favorable for P7 - they won chips without having to play a hand.
+
+Overall: This was a quick hand where Hero and P2 folded immediately preflop, and P4 folded after posting the small blind. P7 simply won the blinds by default. No significant strategic decisions or plays to evaluate from the non-Hero players since everyone folded quickly. P7 benefited from early position folds but made no aggressive moves or special plays.
+
+[After hand #24]
+P7 demonstrated poor decision-making in this hand. Starting with J7o (Jack-seven offsuit) from the small blind, P7 called the big blind raise pre-flop, which is a marginal decision with a weak hand. However, the critical mistakes came post-flop:
+
+1. On the flop (3c Ac As), P7 checked to the Hero who bet 2500. P7 then called this bet with just J-high and no draw, which was a significant error. With two aces on board and a weak kicker, P7's hand had minimal equity.
+
+2. On the turn (2h) and river (2c), P7 continued to check without improving, ultimately losing the pot. This suggests P7 may have been chasing with a weak hand or making loose calls without proper hand assessment.
+
+Overall, P7's play was passive and weak throughout the hand. They should have either folded pre-flop with J7o or folded immediately after the flop when facing aggression from the Hero with such a weak holding. The failure to recognize the strength of the board against their hand led to unnecessary losses.
+
+[After hand #25]
+P2 won the hand with a simple play - posting the big blind at 2000 chips after Hero posted the small blind at 1000 chips. When P4 and P7 folded preflop, Hero also folded their small blind, allowing P2 to win the pot unopposed. P2 won 3000 chips total (their 2000 big blind plus Hero's 1000 small blind). 
+
+This was a straightforward hand where P2 didn't need to make any significant decisions - the opponents folded and the hand was won by default. There were no notable strategic decisions or mistakes from P2 in this hand, as it was essentially decided before any real betting action could occur.
+
+[After hand #26]
+P2 (Small Blind): P2 played an aggressive line, completing from the small blind to 8000 after Hero and P7 folded. Post-flop on an A-6-3c board, P2 bet 4000 and took down the pot when P4 folded. This was a strong aggressive play, showing willingness to attack with strong bets and follow-through. Good aggression and pot control.
+
+P4 (Big Blind): P4 called the 6000 completion bet from the small blind, seeing the flop. However, on the A-6-3c board, P4 folded to P2's 4000 bet. This was a passive response to aggression. P4 showed they can be pushed off hands with pressure betting, which is a weakness to exploit. The fold suggests P4 may lack strong holdings or be overly cautious post-flop.
+
+P7: P7 folded pre-flop, so no real information was gathered about their play style from this hand.
+
+[After hand #27]
+P7 (Big Blind): Played a straightforward position. Posted the big blind of 2000 chips as required. When the action folded to P7, they won the pot unopposed (3000 chips total), which is a basic outcome of everyone else folding. No remarkable play to note - simply collected the blinds.
+
+P4 (Small Blind): Posted the small blind of 1000 chips as required. Folded when action came around to them, which is a reasonable decision. The small blind fold is fairly standard when facing a raise or multiple opponents, though more context would be needed to evaluate if this was optimal play.
+
+P2: Folded preflop. This is a standard, low-risk play but doesn't provide much information about their playing style or hand quality.
+
+Summary: This was a trivial hand where everyone folded to the blinds, resulting in P7 winning the blinds without any real action or decision-making. The only notable observation is that P4 chose to fold the small blind rather than attempt any aggression, suggesting a more passive approach to blind defense.
+
+[After hand #28]
+P7 (Small Blind): P7 showed a very aggressive final river betting pattern. After checking through the flop and turn with a paired Queen board, P7 made a massive all-in bet of 42,639 chips on the river. While this was a winning move in this hand, the sizing and timing suggest P7 may be using overly large bets to win pots without resistance. This is exploitable - P7 appears willing to bet heavily on the river regardless of board texture or checking patterns, which could indicate bluffing tendencies or lack of hand strength calibration. The fact that P7 checked down the entire flop and turn before firing the river is notable; P7 may be employing a delayed aggression strategy, checking weakness to trap or to minimize losses before finally applying pressure on the river.
+
+P2 and P4: Both players folded preflop to the Hero's 2000 chip bet from the big blind. This suggests they were not in premium hands and are playing relatively tight preflop from early positions, which is reasonable. Not much can be inferred about their skill level from these quick folds alone.
+
+[After hand #29]
+P2 played a marginal hand (7c, Kh) from the big blind position and won the pot. Here's the evaluation:
+
+STRENGTHS:
+- P2 successfully won the hand by checking it down through all streets, which was the correct approach given their hand strength
+- They checked all the way through the turn and river, which is appropriate for a non-premium hand like King-high with a pair of sevens on the board
+- Showed discipline by not over-betting with a moderate holding
+
+WEAKNESSES/OBSERVATIONS:
+- P2's hand (7c, Kh) was relatively weak for this situation. While they caught two pair (7s and 7d), their kicker (K) is decent but still vulnerable
+- The hand won by default rather than through strong play, as Hero folded before showdown
+- This appears to be a win based on the passive checking pattern rather than aggressive play or strong hand reading
+- No aggressive moves or betting to extract value from better hands - pure passive approach
+
+OVERALL: P2 played conservatively and won the pot against Hero. The strategy of checking all streets with a medium-strength hand worked out here, but this doesn't necessarily indicate strong poker fundamentals. The win came through a showdown situation rather than demonstrating sophisticated play. P2 is a relatively passive player based on this hand's action.
+
+[After hand #30]
+P2 (Small Blind) - Played an aggressive hand with pocket sevens (7d, 7h) that ultimately won. Analysis of their play:
+
+AGGRESSIVE PREFLOP: P2 significantly overbet their small blind position, raising to 20,000 from an initial 1,000 blind. This was a strong move with a pocket pair, but the bet sizing was somewhat standard for a strong hand. Hero called with 14,000 additional chips, showing they had a marginal hand or were defending.
+
+POSTFLOP AGGRESSION: On the flop (Jh, 9c, 5h), P2 bet 4,000, which is a reasonable continuation bet. Hero called. On the turn (8c), P2 bet another 4,000 - continuing their aggression. Hero called again. On the river (7s), P2 made the same 4,000 bet and Hero called once more.
+
+KEY OBSERVATIONS: 
+- P2 consistently showed aggression throughout all streets with methodical betting of 4,000 chips on flop, turn, and river
+- P2 benefited significantly from hitting an unlikely river card (another 7 for a set), which improved their hand to three-of-a-kind
+- The consistent bet sizing (4,000 per street postflop) was relatively weak and predictable - stronger players would vary bet sizing based on board texture and perceived hand strength
+- P2's preflop raise was good, but the subsequent small postflop bets allowed Hero to stay in the pot cheaply despite being behind
+
+P4 (Big Blind) - Folded immediately to Hero's preflop raise, showing they did not have a strong hand or were unwilling to commit further from out of position. This was a reasonable decision.
+
+P7 (Cutoff/position unclear) - Folded preflop without seeing the community cards, indicating they had a weak hand and chose not to contest the pot. Standard fold.
+
+OVERALL: P2 won with modest postflop betting that didn't maximize value, while Hero made repeated calls with what appears to have been a weaker holding. The river got delivered lucky for P2.
+

@@ -1,0 +1,77 @@
+{
+  "hands_played": 4,
+  "players": {
+    "Hero": {
+      "vpip": 0,
+      "preflop_raise": 0,
+      "preflop_3bet": 0,
+      "continuation_bet": 0,
+      "went_to_showdown": 0,
+      "won_hand": 0,
+      "net_chips": 0
+    },
+    "P2": {
+      "vpip": 0,
+      "preflop_raise": 0,
+      "preflop_3bet": 0,
+      "continuation_bet": 0,
+      "went_to_showdown": 0,
+      "won_hand": 0,
+      "net_chips": 0
+    },
+    "P3": {
+      "vpip": 0,
+      "preflop_raise": 0,
+      "preflop_3bet": 0,
+      "continuation_bet": 0,
+      "went_to_showdown": 0,
+      "won_hand": 0,
+      "net_chips": 0
+    },
+    "P4": {
+      "vpip": 0,
+      "preflop_raise": 0,
+      "preflop_3bet": 0,
+      "continuation_bet": 0,
+      "went_to_showdown": 0,
+      "won_hand": 0,
+      "net_chips": 0
+    },
+    "P5": {
+      "vpip": 0,
+      "preflop_raise": 0,
+      "preflop_3bet": 0,
+      "continuation_bet": 0,
+      "went_to_showdown": 0,
+      "won_hand": 0,
+      "net_chips": 0
+    },
+    "P6": {
+      "vpip": 0,
+      "preflop_raise": 0,
+      "preflop_3bet": 0,
+      "continuation_bet": 0,
+      "went_to_showdown": 0,
+      "won_hand": 0,
+      "net_chips": 0
+    },
+    "P7": {
+      "vpip": 0,
+      "preflop_raise": 0,
+      "preflop_3bet": 0,
+      "continuation_bet": 0,
+      "went_to_showdown": 0,
+      "won_hand": 0,
+      "net_chips": 0
+    }
+  },
+  "chip_changes": [
+    -8000,
+    0,
+    0,
+    -1000,
+    9000,
+    0,
+    0
+  ]
+}

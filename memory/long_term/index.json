@@ -1,0 +1,50 @@
+{
+  "P2": {
+    "games_observed": 241,
+    "last_seen": "2026-05-31T05:27:43.249918",
+    "summary": "P2 (Small Blind) - Posted the small blind of 1000 chips and then folded when faced with Hero's action, which is a reasonable decision given they were out of position post-flop. No major errors here; blind folding is standard play.",
+    "tags": [
+      "balanced",
+      "passive"
+    ]
+  },
+  "P3": {
+    "games_observed": 235,
+    "last_seen": "2026-05-31T05:27:43.314781",
+    "summary": "P3 (Big Blind) - Posted the big blind of 2000 chips and won the hand by default when both Hero and P2 folded preflop. P3 did nothing particularly noteworthy in this hand; they simply collected the blinds without facing any real decision or competition. This was a straightforward blind-stealing scenario where P3 benefited from passive play by the other players.",
+    "tags": [
+      "passive",
+      "aggressive"
+    ]
+  },
+  "P4": {
+    "games_observed": 247,
+    "last_seen": "2026-05-31T05:27:31.692738",
+    "summary": "P4 (Jack-Six): Made a significant mistake by calling the 5000 completion preflop with Jack-6 offsuit, a weak holding. Additionally, P4 went all-in for only 6000 total (posting 1000 blind + calling 5000), suggesting a short-stack situation. P4 was eliminated (hand killed) by showdown, losing the 6000 invested. This was poor preflop play - J6o is not a hand worth stacking off with, and P4 should have folded or had better position/stack dynamics to justify the call.",
+    "tags": [
+      "passive"
+    ]
+  },
+  "P5": {
+    "games_observed": 60,
+    "last_seen": "2026-05-31T05:21:01.694656",
+    "summary": "P5 played a weak hand from the small blind, calling the Hero's aggressive 5x completion pre-flop with what was likely a marginal holding. On the flop, P5 check-called 6000 but then made a critical error by folding to a 7000 bet on the turn without putting up serious resistance. This suggests P5 was playing passively with a medium-strength hand that lacked conviction.",
+    "tags": [
+      "passive"
+    ]
+  },
+  "P6": {
+    "games_observed": 186,
+    "last_seen": "2026-05-31T05:25:58.787076",
+    "summary": "P6's Play Analysis:",
+    "tags": []
+  },
+  "P7": {
+    "games_observed": 210,
+    "last_seen": "2026-05-31T05:27:31.761314",
+    "summary": "P7 (Seven-Four): Poor preflop play. Called the raise with 7-4 offsuit, one of the weakest starting hands in poker. P7 only had 6125 chips and went all-in for 3125, indicating another short-stack situation. P7 was also eliminated (hand killed) by showdown. This is terrible poker - 7-4 offsuit is rarely playable and calling a raise with this holding is a major leak.",
+    "tags": [
+      "aggressive"
+    ]
+  }
+}
